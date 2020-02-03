@@ -4,7 +4,7 @@ unit module Sparrow6::OpenSSL::Install;
 
 use Sparrow6::DSL;
 
-our sub tasks () {
+our sub tasks (%args) {
 
   # --------------------------- Install openssl related packages ------------------------ #
   
