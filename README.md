@@ -11,7 +11,7 @@ Sparrow6 plugin to install openssl for various platforms
 # Usage
 
 
-module-run ":OpenSSL::Install"
+`module-run "OpenSSL::Install"`
 
 
 # Author
